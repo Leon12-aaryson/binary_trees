@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 #include <stdlib.h>
->>>>>>> 660525ed42e2cfa8b497a75b37e4c467d6a5d6b6
 #include "binary_trees.h"
 
 /**
